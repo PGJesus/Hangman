@@ -12,7 +12,7 @@ betu_szam = len(generalt_szo)
 for betu in generalt_szo:
     print("_ ")
 
-    if " " in generalt_szo:
+    if " í" in generalt_szo:
         print(" ")
 
 
